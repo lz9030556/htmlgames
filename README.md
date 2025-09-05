@@ -1,9 +1,3 @@
-<h1 style="text-align: center;"><span style="background-color: #000000;"><strong><span style="color: #333333;"></span>&nbsp; &nbsp;<span style="color: #ffffff;">Benson's HTML Games</span>&nbsp; &nbsp;</strong></span></h1>
-<table style="height: 18px; width: 72.9572%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="1">
-<tbody>
-<tr style="height: 18px;">
-<td style="width: 100%; height: 18px; text-align: left;"><strong><a title="Eaglercraft1.8.8" href="eaglercraft.1.8.8.html" target="_blank" rel="noopener">Eaglercraft1.8.8</a></strong></td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+NOTICE:
+
+This webpage was created to host games that are stored in single HTML files. If you are playing games on this webpage in class, close close this webpage, and do your work! The Administrator of this website is not responsible for any punishments for misuse of technology that have resulted from playing games on this website.
