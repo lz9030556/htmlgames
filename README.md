@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"><span style="background-color: #000000;"><strong><span style="color: #333333;">.</span>&nbsp; &nbsp;<span style="color: #ffffff;">Benson's HTML Games</span>&nbsp; &nbsp;.</strong></span></h1>
+<h1 style="text-align: center;"><span style="background-color: #000000;"><strong><span style="color: #333333;"></span>&nbsp; &nbsp;<span style="color: #ffffff;">Benson's HTML Games</span>&nbsp; &nbsp;</strong></span></h1>
 <table style="height: 18px; width: 72.9572%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="1">
 <tbody>
 <tr style="height: 18px;">
